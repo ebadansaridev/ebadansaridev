@@ -12,13 +12,13 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://linkedin.com/in/ebadansaridev" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammadebadansari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ebadansaridev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:ebadansari161@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -232,22 +232,6 @@ namespace EbadAnsari {
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadansaridev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=10" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ebadansaridev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" />
 
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ebadansaridev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ebadansaridev/ebadansaridev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
