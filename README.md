@@ -219,7 +219,7 @@ namespace EbadAnsari {
 > 💡 **Update the project links above** with your actual GitHub repo URLs once you push your projects!
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -232,7 +232,7 @@ namespace EbadAnsari {
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadansaridev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=10" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ebadansaridev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" />
 
-</div>
+</div> -->
 
 ---
 
