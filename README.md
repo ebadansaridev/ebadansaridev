@@ -215,10 +215,10 @@ namespace EbadAnsari {
     </td>
   </tr>
 </table>
+<img src="github-contribution-grid-snake-dark.svg"/>
 
-> 💡 **Update the project links above** with your actual GitHub repo URLs once you push your projects!
 
----
+
 <!-- 
 ## 📊 GitHub Stats
 
